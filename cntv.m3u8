@@ -8,8 +8,6 @@ https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5.png" group-title="央视",CCTV-5体育
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5-plus.png" group-title="央视",CCTV-5+体育赛事
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-6.png" group-title="央视",CCTV-6电影
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-6.png" group-title="央视",CCTV-6电影
@@ -36,6 +34,8 @@ https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
 https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-17.png" group-title="央视",CCTV-17农业农村
 https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://tchiphuong.github.io/iptv/images/zh-cctv-5-plus.png" group-title="央视",CCTV-5+体育赛事
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://223.109.210.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
