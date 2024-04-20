@@ -554,7 +554,7 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="其它",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="其它Cartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;其它",其它 Cartoons (520p)
+#EXTINF:-1 tvg-id="其它Cartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="其它",Cartoons (520p)
 http://144.76.58.245:2307/cartoon/index.m3u8
 
 
